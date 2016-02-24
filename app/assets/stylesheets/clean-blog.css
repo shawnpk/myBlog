@@ -143,17 +143,17 @@ hr.small {
   margin-bottom: 50px;
 }
 .header1 {
-  background-image: image-url('home-bg.jpg') !important;
+  background: image-url('home-bg.jpg') !important;
 }
 
 .header2 {
-  background-image: image-url('post-bg.jpg') !important;
+  background: image-url('post-bg.jpg') !important;
 }
 .header3 {
-  background-image: image-url('contact-bg.jpg');
+  background: image-url('contact-bg.jpg');
 }
 .header4 {
-  background-image: image-url('about-bg.jpg');
+  background: image-url('about-bg.jpg');
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
